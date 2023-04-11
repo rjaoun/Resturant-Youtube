@@ -7,6 +7,10 @@
   transition: all 0.2s linear;
 }
 
+.row > * {
+  padding-left: 0 !important;
+}
+
 html {
   font-size: 62.5%;
   scroll-behavior: smooth;
